@@ -22,7 +22,7 @@ const Navbar = () => {
           onClick={() => navigate('/')}
           className='w-44 cursor-pointer'
           src={assets.logo}
-          alt="MedConnect Logo"
+          alt="Medify Logo"
         />
         
         {/* Desktop Menu */}
@@ -81,7 +81,7 @@ const Navbar = () => {
             onClick={() => navigate('/')}
             className='w-36'
             src={assets.logo}
-            alt="MedConnect Logo"
+            alt="Medify Logo"
           />
           <img
             onClick={() => setShowMenu(false)}

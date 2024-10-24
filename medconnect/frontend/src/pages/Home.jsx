@@ -6,13 +6,13 @@ const Home = () => {
 
   return (
     <div
-      className="flex flex-col items-center justify-center min-h-screen bg-cover bg-center"
-      style={{ backgroundImage: "url('your-image-url.jpg')" }}
+      className="flex flex-col bg-green items-center justify-center min-h-screen bg-cover bg-center"
+      
     >
-      <div className="bg-white bg-opacity-90 p-12 rounded-lg shadow-lg border border-gray-200 text-center max-w-4xl mx-4 md:mx-8">
-        <h1 className="text-5xl font-extrabold text-blue-800 mb-6">Welcome to MedConnect</h1>
+      <div className=" bg-opacity-90 p-12 rounded-lg shadow-lg border border-gray-200 text-center max-w-4xl mx-4 md:mx-8">
+        <h1 className="text-5xl font-extrabold text-blue-800 mb-6">Welcome to Medify</h1>
         <p className="text-lg text-gray-800 mb-10">
-          At MedConnect, we are dedicated to making healthcare accessible and convenient for everyone. 
+          At Medify, we are dedicated to making healthcare accessible and convenient for everyone. 
           Whether you need to consult with a specialist or book a comfortable bed for your stay, 
           our platform is designed to streamline the process and ensure you receive the best care 
           possible. Explore our services and take control of your healthcare journey today.

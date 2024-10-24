@@ -22,15 +22,15 @@ const Contact = () => {
           </p>
           <p className="mt-2">
             Tel: +91 98765 43210 <br />
-            Email: info@medconnect.com
+            Email: info@Medify.com
           </p>
         </div>
 
         {/* Careers Section */}
         <div>
-          <h2 className="text-xl font-semibold mb-4">Careers at MedConnect</h2>
+          <h2 className="text-xl font-semibold mb-4">Careers at Medify</h2>
           <p>
-            At MedConnect, we are committed to building a dynamic team of professionals passionate about delivering quality healthcare services. Whether you're just starting your career or looking to take the next step, MedConnect offers numerous opportunities for growth and development.
+            At Medify, we are committed to building a dynamic team of professionals passionate about delivering quality healthcare services. Whether you're just starting your career or looking to take the next step, Medify offers numerous opportunities for growth and development.
           </p>
           <p className="mt-4">
             Explore our current job openings and learn more about what it's like to work with us.
